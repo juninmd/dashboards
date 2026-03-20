@@ -1,0 +1,24 @@
+[[allowlist]]
+description = "False positive: generic-api-key in examples/connected-devices/connected-devices.js"
+rules = ["generic-api-key"]
+paths = ["examples/connected-devices/connected-devices.js"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in examples/geo-explorer/geo-explorer.js"
+rules = ["generic-api-key"]
+paths = ["examples/geo-explorer/geo-explorer.js"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in examples/geo-explorer/geo-explorer.js"
+rules = ["generic-api-key"]
+paths = ["examples/geo-explorer/geo-explorer.js"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in examples/connected-devices/connected-devices.js"
+rules = ["generic-api-key"]
+paths = ["examples/connected-devices/connected-devices.js"]
+
+[[allowlist]]
+description = "False positive: generic-api-key in examples/connected-devices/main.js"
+rules = ["generic-api-key"]
+paths = ["examples/connected-devices/main.js"]
